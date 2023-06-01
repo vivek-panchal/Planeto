@@ -1,6 +1,15 @@
 # Solar System Explorer App
 The Solar System Explorer App is a visually stunning Android app developed using Kotlin, XML, and Recycler View. The app showcases technical proficiency and creativity in mobile app development, providing users with a deep understanding of the unique characteristics of each planet in our solar system.
 
+## Some ScreenShots(Actual App Even Looks Better 😃): </br>
+<img src="https://github.com/vivek-panchal/Planeto/blob/master/AppScreenshot/1.png" width=30% height=30%/> <img src="https://github.com/vivek-panchal/Planeto/blob/master/AppScreenshot/2.png" width=30% height=30%/>
+<img src="https://github.com/vivek-panchal/Planeto/blob/master/AppScreenshot/3.png" width=30% height=30%/>
+<img src="https://github.com/vivek-panchal/Planeto/blob/master/AppScreenshot/4.png" width=30% height=30%/>
+<img src="https://github.com/vivek-panchal/Planeto/blob/master/AppScreenshot/5.png" width=30% height=30%/>
+<img src="https://github.com/vivek-panchal/Planeto/blob/master/AppScreenshot/6.png" width=30% height=30%/>
+<br>
+<br>
+
 ## Features
 The app offers comprehensive data on each planet, including its distance from the sun, gravity value, and other key features. The sleek and modern interface highlights the most important information about each planet, making it easy for users to quickly access and absorb important facts.
 
